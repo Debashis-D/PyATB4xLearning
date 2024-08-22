@@ -1,1 +1,3 @@
-print("Go to there")
+# print("Go to there")
+for i in range (10):
+    print(i>3)
